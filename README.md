@@ -12,7 +12,7 @@
 - 🧠 Currently learning to build ML-powered web apps and participate in hackathons  
 - 📌 I love working on projects that solve real-world problems  
 - 💬 Ask me about **ML, Python, SQL, or DSA**
-- 📫 Reach me: [2004sowji@gmail.com](mailto:2004sowji@gmail.com)
+- 📫 Reach me: [sowjanyaravindra438@gmail.com](mailto:sowjanyaravindra438@gmail.com)
 
 ---
 
