@@ -7,7 +7,7 @@
 
 ### 👩‍🎓 About Me
 
-- 🏫 I'm a **4rd year, 8th semester** student at **Ramaiah University of Applied Sciences**  
+- 🏫 I'm a **4th year, 8th semester** student at **Ramaiah University of Applied Sciences**  
 - 💻 Skilled in **Python, Machine Learning, SQL, and DSA**  
 - 🧠 Currently learning to build ML-powered web apps and participate in hackathons  
 - 📌 I love working on projects that solve real-world problems  
