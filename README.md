@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Sowjanya R -->
 
 <h1 align="center">Hi 👋, I'm Sowjanya R</h1>
-<h3 align="center">🎓 B.Tech AIML | 💡 Python & ML Enthusiast | 📍 3rd Year Student at Ramaiah University of Applied Sciences</h3>
+<h3 align="center">🎓 B.Tech AIML | 💡 Python & ML Enthusiast | 📍 4rd Year Student at Ramaiah University of Applied Sciences</h3>
 
 ---
 
