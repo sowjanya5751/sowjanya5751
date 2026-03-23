@@ -1,69 +1,110 @@
-<!-- GitHub Profile README for Sowjanya R -->
-
 <h1 align="center">Hi 👋, I'm Sowjanya R</h1>
-<h3 align="center">🎓 B.Tech AIML | 💡 Python & ML Enthusiast | 📍 4th Year Student at Ramaiah University of Applied Sciences</h3>
+<h3 align="center">🚀 AI Engineer in Progress | Building Real-World ML Systems | FastAPI • NLP • LLMs</h3>
 
 ---
 
-### 👩‍🎓 About Me
+## 🧠 About Me
 
-- 🏫 I'm a **4th year, 8th semester** student at **Ramaiah University of Applied Sciences**  
-- 💻 Skilled in **Python, Machine Learning, SQL, and DSA**  
-- 🧠 Currently learning to build ML-powered web apps and participate in hackathons  
-- 📌 I love working on projects that solve real-world problems  
-- 💬 Ask me about **ML, Python, SQL, or DSA**
-- 📫 Reach me: [sowjanyaravindra438@gmail.com](mailto:sowjanyaravindra438@gmail.com)
+* 🎓 Final Year B.Tech (AIML) @ Ramaiah University of Applied Sciences
+* ⚡ I build **production-oriented AI systems**, not just models
+* 🧩 Currently focused on:
 
----
-
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+  * LLM-based systems (LangChain, APIs)
+  * FastAPI backend development
+  * AI + real-world applications (healthcare, interviews, automation)
+* 🏗️ Strong interest in **system design, scalable AI, and automation**
+* 🎯 Goal: Become a **top-tier ML/AI Engineer (2026)**
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 What I’m Building
+
+### 🤖 AI Interview Assistant (Flagship Project)
+
+> A multi-signal AI system that evaluates candidates like a real interviewer
+
+* 🧠 NLP-based sentiment & emotion detection
+* ⌨️ Keystroke dynamics for behavioral analysis
+* 📊 Explainable scoring system
+* 📄 Automated interview report generation
+* ⚙️ Modular backend with FastAPI
+
+👉 Focus: **Real-world AI system design, not just prediction models**
+
+---
+
+### 🏥 AI Healthcare Risk Predictor
+
+> ML-powered system for early disease detection
+
+* 📥 User input-based predictions (no dataset dependency)
+* 🌐 Streamlit-based interactive UI
+* 📄 Downloadable health reports
+* 🌍 Multilingual support (planned)
+
+---
+
+### 🌱 Multi-Agent AI System (Agriculture)
+
+> AI agents collaborating for smarter farming decisions
+
+* 🌦️ Weather + market + advisory agents
+* 📊 Data-driven recommendations
+* 🧠 Multi-agent architecture design
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Core
+
+* Python • SQL • Data Structures & Algorithms
+
+### 🤖 AI / ML
+
+* Scikit-learn • NLP • Model Building
+* Prompt Engineering • LLM APIs (learning phase)
+
+### ⚙️ Backend & Systems
+
+* FastAPI • REST APIs
+* SQLite • Modular Architecture
+
+### 🌐 Frontend
+
+* Streamlit • (Learning React / Next.js)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowjanya5751&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya5751&theme=radical" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sowjanya5751&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya5751&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 🌟 Projects
+## 🧩 What Makes Me Different
 
-#### 🏫 University Management System  
-A management system to handle student data, academic records, and course details efficiently. Built as part of academic project work.
-
-> 🔧 More exciting projects coming soon!
+* 🚀 I focus on **building complete AI systems**, not just models
+* ⚡ I can **learn and ship fast in unfamiliar tech stacks**
+* 🧠 Strong problem-solving + real-world thinking
+* 🔄 Constantly improving projects toward **production-level quality**
 
 ---
 
-### 📌 Connect with Me
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sowjanya-r-ba97142a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:2004sowji@gmail.com" target="_blank">
+  <a href="mailto:sowjanyaravindra438@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sowjanya5751" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ “Dream big, stay curious, and keep coding.” ✨</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
-</p>
+<p align="center">⚡ Building AI systems that actually solve real problems</p>
